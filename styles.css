@@ -377,6 +377,12 @@ footer a {
     text-decoration: none;
 }
 
+@media screen and (max-width: 1400px) {
+    .section-two-text {
+        margin-right: 0;
+    }
+}
+
 @media screen and (max-width: 1200px) {
     .packages-header {
         margin: 0 110px;
